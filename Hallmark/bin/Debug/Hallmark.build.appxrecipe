@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AFZALCOMP</Machine>
+    <WindowsUser>Afzal computers</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>451f6b41-4b55-4278-80de-e78dcba09232</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Hallmark\Hallmark\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\Hallmark.exe">
+      <PackagePath>Hallmark.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a1.jpg">
+      <PackagePath>Assets\a1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a10.jpg">
+      <PackagePath>Assets\a10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a2.jpg">
+      <PackagePath>Assets\a2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a3.jpg">
+      <PackagePath>Assets\a3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a4.jpg">
+      <PackagePath>Assets\a4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a5.jpg">
+      <PackagePath>Assets\a5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a6.jpg">
+      <PackagePath>Assets\a6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a7.jpg">
+      <PackagePath>Assets\a7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a8.jpg">
+      <PackagePath>Assets\a8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\a9.jpg">
+      <PackagePath>Assets\a9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\anniversary gifts.jpg">
+      <PackagePath>Assets\anniversary gifts.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\b1.jpg">
+      <PackagePath>Assets\b1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\b2.jpg">
+      <PackagePath>Assets\b2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\b3.jpg">
+      <PackagePath>Assets\b3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\b4.jpg">
+      <PackagePath>Assets\b4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\b5.jpg">
+      <PackagePath>Assets\b5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\babys-first-birthday-ornament-root-1295qhx1199_1470_1.jpg">
+      <PackagePath>Assets\babys-first-birthday-ornament-root-1295qhx1199_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Baby_First_Year_Collage_Picture_Frame.jpg">
+      <PackagePath>Assets\Baby_First_Year_Collage_Picture_Frame.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\birthday gifts.jpg">
+      <PackagePath>Assets\birthday gifts.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\black-simple-shopping-cart_318-10774.jpg">
+      <PackagePath>Assets\black-simple-shopping-cart_318-10774.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\childrens-bumble-bee-earrings-in-sterling-silver-root-e902382rl_1470_1.jpg">
+      <PackagePath>Assets\childrens-bumble-bee-earrings-in-sterling-silver-root-e902382rl_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\childrens-love-daddy-pendant-in-sterling-silver-root-c901051rl_1470_1.jpg">
+      <PackagePath>Assets\childrens-love-daddy-pendant-in-sterling-silver-root-c901051rl_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\coffee-cup-maxine-ornament-root-1hgo1008_1470_1.jpg">
+      <PackagePath>Assets\coffee-cup-maxine-ornament-root-1hgo1008_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\diamond-accent-angel-necklace-root-1274596_1470_1.jpg">
+      <PackagePath>Assets\diamond-accent-angel-necklace-root-1274596_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\engraved-grandma-necklace-in-sterling-silver-root-nn416259rz_1470_1.jpg">
+      <PackagePath>Assets\engraved-grandma-necklace-in-sterling-silver-root-nn416259rz_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\engraved-mom-necklace-in-sterling-silver-root-nn416269rz_1470_1.jpg">
+      <PackagePath>Assets\engraved-mom-necklace-in-sterling-silver-root-nn416269rz_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\friendship card.jpg">
+      <PackagePath>Assets\friendship card.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\gift.jpg">
+      <PackagePath>Assets\gift.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Greeting-Cards.jpg">
+      <PackagePath>Assets\Greeting-Cards.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\hallmark_logo.jpg">
+      <PackagePath>Assets\hallmark_logo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\hello-kitty-memo-pad-set-with-pen-root-b12.jpg">
+      <PackagePath>Assets\hello-kitty-memo-pad-set-with-pen-root-b12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\light-your-way-every-day-friend-angel-figurine-ornament-root-19080_1470_1.jpg">
+      <PackagePath>Assets\light-your-way-every-day-friend-angel-figurine-ornament-root-19080_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\lolita-cheers-handpainted-wine-glass-root-4053097_1470_1.jpg">
+      <PackagePath>Assets\lolita-cheers-handpainted-wine-glass-root-4053097_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\milestone-birthday-ornament-root-1595qhx1054_1470_1.jpg">
+      <PackagePath>Assets\milestone-birthday-ornament-root-1595qhx1054_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\pearl-pendant-necklace-root-1274590_1470_1.jpg">
+      <PackagePath>Assets\pearl-pendant-necklace-root-1274590_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Push_Wagon.jpg">
+      <PackagePath>Assets\Push_Wagon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Shape_Sorter.jpg">
+      <PackagePath>Assets\Shape_Sorter.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Squeeze_Blocks.jpg">
+      <PackagePath>Assets\Squeeze_Blocks.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Stand_Walker.jpg">
+      <PackagePath>Assets\Stand_Walker.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\sterling-silver-butterfly-and-cubic-zirconia-2pack-stud-earring-set-root-1274604_1470_1.jpg">
+      <PackagePath>Assets\sterling-silver-butterfly-and-cubic-zirconia-2pack-stud-earring-set-root-1274604_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t1.jpg">
+      <PackagePath>Assets\t1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t10.jpg">
+      <PackagePath>Assets\t10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t2.jpg">
+      <PackagePath>Assets\t2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t3.jpg">
+      <PackagePath>Assets\t3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t4.jpg">
+      <PackagePath>Assets\t4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t5.jpg">
+      <PackagePath>Assets\t5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t6.jpg">
+      <PackagePath>Assets\t6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t7.jpg">
+      <PackagePath>Assets\t7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t8.jpg">
+      <PackagePath>Assets\t8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\t9.jpg">
+      <PackagePath>Assets\t9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Wedding cards.jpg">
+      <PackagePath>Assets\Wedding cards.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Wedding gifts.jpg">
+      <PackagePath>Assets\Wedding gifts.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\wings-of-hope-encouragement-ornament-root-1795qhx1051_1470_1.jpg">
+      <PackagePath>Assets\wings-of-hope-encouragement-ornament-root-1795qhx1051_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\wishbone-sterling-silver-necklace-root-hm400006_1470_1.jpg">
+      <PackagePath>Assets\wishbone-sterling-silver-necklace-root-hm400006_1470_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\birthday cards.png">
+      <PackagePath>Assets\birthday cards.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c1.PNG">
+      <PackagePath>Assets\c1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c10.PNG">
+      <PackagePath>Assets\c10.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c2.PNG">
+      <PackagePath>Assets\c2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c3.PNG">
+      <PackagePath>Assets\c3.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c4.PNG">
+      <PackagePath>Assets\c4.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c5.PNG">
+      <PackagePath>Assets\c5.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c6.PNG">
+      <PackagePath>Assets\c6.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c7.PNG">
+      <PackagePath>Assets\c7.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c82.PNG">
+      <PackagePath>Assets\c82.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\c9.PNG">
+      <PackagePath>Assets\c9.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f1.PNG">
+      <PackagePath>Assets\f1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f10.PNG">
+      <PackagePath>Assets\f10.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f2.PNG">
+      <PackagePath>Assets\f2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f3.PNG">
+      <PackagePath>Assets\f3.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f4.PNG">
+      <PackagePath>Assets\f4.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f5.PNG">
+      <PackagePath>Assets\f5.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f6.PNG">
+      <PackagePath>Assets\f6.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f7.PNG">
+      <PackagePath>Assets\f7.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f8.PNG">
+      <PackagePath>Assets\f8.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\f9.PNG">
+      <PackagePath>Assets\f9.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\shp-desktop-personalized-books-content-7-6-16.png">
+      <PackagePath>Assets\shp-desktop-personalized-books-content-7-6-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w1.PNG">
+      <PackagePath>Assets\w1.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w10.PNG">
+      <PackagePath>Assets\w10.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w2.PNG">
+      <PackagePath>Assets\w2.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w3.PNG">
+      <PackagePath>Assets\w3.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w4.PNG">
+      <PackagePath>Assets\w4.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w5.PNG">
+      <PackagePath>Assets\w5.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w6.PNG">
+      <PackagePath>Assets\w6.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w7.PNG">
+      <PackagePath>Assets\w7.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w8.PNG">
+      <PackagePath>Assets\w8.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Assets\w9.PNG">
+      <PackagePath>Assets\w9.PNG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\cards.xbf">
+      <PackagePath>cards.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\cardsitems.xbf">
+      <PackagePath>cardsitems.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\gifts.xbf">
+      <PackagePath>gifts.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\giftsitems.xbf">
+      <PackagePath>giftsitems.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\ViewItem.xbf">
+      <PackagePath>ViewItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Hallmark\Hallmark\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

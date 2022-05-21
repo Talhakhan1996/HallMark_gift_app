@@ -1,0 +1,112 @@
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\App.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\MainPage.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\Hallmark.exe
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\Hallmark.pdb
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\resources.pri
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\AppxManifest.xml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\Hallmark.build.appxrecipe
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\App.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\App.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\MainPage.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\MainPage.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\App.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\App.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\MainPage.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\MainPage.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\Hallmark.exe
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\Hallmark.pdb
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\priconfig.xml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\priconfig.xml.intermediate
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\layout.resfiles
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\layout.resfiles.intermediate
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\resources.resfiles
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\resources.resfiles.intermediate
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\pri.resfiles
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\pri.resfiles.intermediate
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\qualifiers.txt
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\ProjectArchitectures.txt
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\cards.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cards.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cards.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cards.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cards.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\gifts.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\gifts.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\gifts.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\gifts.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\gifts.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\cardsitems.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cardsitems.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cardsitems.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cardsitems.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\cardsitems.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\giftsitems.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\giftsitems.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\giftsitems.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\giftsitems.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\giftsitems.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\ViewItem.g.i.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\ViewItem.g.cs
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\ViewItem.xaml
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\obj\Debug\ViewItem.xbf
+C:\Users\Afzal computers\documents\visual studio 2013\Projects\Hallmark\Hallmark\bin\Debug\ViewItem.xbf
+D:\Hallmark\Hallmark\bin\Debug\App.xbf
+D:\Hallmark\Hallmark\bin\Debug\cards.xbf
+D:\Hallmark\Hallmark\bin\Debug\cardsitems.xbf
+D:\Hallmark\Hallmark\bin\Debug\gifts.xbf
+D:\Hallmark\Hallmark\bin\Debug\giftsitems.xbf
+D:\Hallmark\Hallmark\bin\Debug\MainPage.xbf
+D:\Hallmark\Hallmark\bin\Debug\ViewItem.xbf
+D:\Hallmark\Hallmark\bin\Debug\Hallmark.exe
+D:\Hallmark\Hallmark\bin\Debug\Hallmark.pdb
+D:\Hallmark\Hallmark\bin\Debug\resources.pri
+D:\Hallmark\Hallmark\bin\Debug\AppxManifest.xml
+D:\Hallmark\Hallmark\bin\Debug\Hallmark.build.appxrecipe
+D:\Hallmark\Hallmark\obj\Debug\App.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\App.g.cs
+D:\Hallmark\Hallmark\obj\Debug\cards.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\cards.g.cs
+D:\Hallmark\Hallmark\obj\Debug\cardsitems.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\cardsitems.g.cs
+D:\Hallmark\Hallmark\obj\Debug\gifts.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\gifts.g.cs
+D:\Hallmark\Hallmark\obj\Debug\giftsitems.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\giftsitems.g.cs
+D:\Hallmark\Hallmark\obj\Debug\MainPage.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\MainPage.g.cs
+D:\Hallmark\Hallmark\obj\Debug\ViewItem.g.i.cs
+D:\Hallmark\Hallmark\obj\Debug\ViewItem.g.cs
+D:\Hallmark\Hallmark\obj\Debug\XamlTypeInfo.g.cs
+D:\Hallmark\Hallmark\obj\Debug\App.xaml
+D:\Hallmark\Hallmark\obj\Debug\cards.xaml
+D:\Hallmark\Hallmark\obj\Debug\cardsitems.xaml
+D:\Hallmark\Hallmark\obj\Debug\gifts.xaml
+D:\Hallmark\Hallmark\obj\Debug\giftsitems.xaml
+D:\Hallmark\Hallmark\obj\Debug\MainPage.xaml
+D:\Hallmark\Hallmark\obj\Debug\ViewItem.xaml
+D:\Hallmark\Hallmark\obj\Debug\App.xbf
+D:\Hallmark\Hallmark\obj\Debug\cards.xbf
+D:\Hallmark\Hallmark\obj\Debug\cardsitems.xbf
+D:\Hallmark\Hallmark\obj\Debug\gifts.xbf
+D:\Hallmark\Hallmark\obj\Debug\giftsitems.xbf
+D:\Hallmark\Hallmark\obj\Debug\MainPage.xbf
+D:\Hallmark\Hallmark\obj\Debug\ViewItem.xbf
+D:\Hallmark\Hallmark\obj\Debug\XamlSaveStateFile.xml
+D:\Hallmark\Hallmark\obj\Debug\Hallmark.exe
+D:\Hallmark\Hallmark\obj\Debug\Hallmark.pdb
+D:\Hallmark\Hallmark\obj\Debug\priconfig.xml
+D:\Hallmark\Hallmark\obj\Debug\priconfig.xml.intermediate
+D:\Hallmark\Hallmark\obj\Debug\layout.resfiles
+D:\Hallmark\Hallmark\obj\Debug\layout.resfiles.intermediate
+D:\Hallmark\Hallmark\obj\Debug\resources.resfiles
+D:\Hallmark\Hallmark\obj\Debug\resources.resfiles.intermediate
+D:\Hallmark\Hallmark\obj\Debug\pri.resfiles
+D:\Hallmark\Hallmark\obj\Debug\pri.resfiles.intermediate
+D:\Hallmark\Hallmark\obj\Debug\qualifiers.txt
+D:\Hallmark\Hallmark\obj\Debug\qualifiers.txt.intermediate
+D:\Hallmark\Hallmark\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Hallmark\Hallmark\obj\Debug\ProjectArchitectures.txt

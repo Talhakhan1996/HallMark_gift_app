@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{810FF988-418D-4B0B-896B-8CB62870E13E}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Hallmark</RootNamespace>
+    <AssemblyName>Hallmark</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformVersion>8.1</TargetPlatformVersion>
+    <MinimumVisualStudioVersion>12</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{BC8A1FFA-BEE3-4634-8014-F334798102B3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <PackageCertificateKeyFile>Hallmark_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="cards.xaml.cs">
+      <DependentUpon>cards.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="cardsitems.xaml.cs">
+      <DependentUpon>cardsitems.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common\NavigationHelper.cs" />
+    <Compile Include="Common\ObservableDictionary.cs" />
+    <Compile Include="Common\RelayCommand.cs" />
+    <Compile Include="Common\SuspensionManager.cs" />
+    <Compile Include="gifts.xaml.cs">
+      <DependentUpon>gifts.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="giftsitems.xaml.cs">
+      <DependentUpon>giftsitems.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewItem.xaml.cs">
+      <DependentUpon>ViewItem.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <None Include="Hallmark_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\a1.jpg" />
+    <Content Include="Assets\a10.jpg" />
+    <Content Include="Assets\a2.jpg" />
+    <Content Include="Assets\a3.jpg" />
+    <Content Include="Assets\a4.jpg" />
+    <Content Include="Assets\a5.jpg" />
+    <Content Include="Assets\a6.jpg" />
+    <Content Include="Assets\a7.jpg" />
+    <Content Include="Assets\a8.jpg" />
+    <Content Include="Assets\a9.jpg" />
+    <Content Include="Assets\anniversary gifts.jpg" />
+    <Content Include="Assets\b1.jpg" />
+    <Content Include="Assets\b2.jpg" />
+    <Content Include="Assets\b3.jpg" />
+    <Content Include="Assets\b4.jpg" />
+    <Content Include="Assets\b5.jpg" />
+    <Content Include="Assets\babys-first-birthday-ornament-root-1295qhx1199_1470_1.jpg" />
+    <Content Include="Assets\Baby_First_Year_Collage_Picture_Frame.jpg" />
+    <Content Include="Assets\birthday cards.png" />
+    <Content Include="Assets\birthday gifts.jpg" />
+    <Content Include="Assets\black-simple-shopping-cart_318-10774.jpg" />
+    <Content Include="Assets\c1.PNG" />
+    <Content Include="Assets\c10.PNG" />
+    <Content Include="Assets\c2.PNG" />
+    <Content Include="Assets\c3.PNG" />
+    <Content Include="Assets\c4.PNG" />
+    <Content Include="Assets\c5.PNG" />
+    <Content Include="Assets\c6.PNG" />
+    <Content Include="Assets\c7.PNG" />
+    <Content Include="Assets\c82.PNG" />
+    <Content Include="Assets\c9.PNG" />
+    <Content Include="Assets\childrens-bumble-bee-earrings-in-sterling-silver-root-e902382rl_1470_1.jpg" />
+    <Content Include="Assets\childrens-love-daddy-pendant-in-sterling-silver-root-c901051rl_1470_1.jpg" />
+    <Content Include="Assets\coffee-cup-maxine-ornament-root-1hgo1008_1470_1.jpg" />
+    <Content Include="Assets\diamond-accent-angel-necklace-root-1274596_1470_1.jpg" />
+    <Content Include="Assets\engraved-grandma-necklace-in-sterling-silver-root-nn416259rz_1470_1.jpg" />
+    <Content Include="Assets\engraved-mom-necklace-in-sterling-silver-root-nn416269rz_1470_1.jpg" />
+    <Content Include="Assets\f1.PNG" />
+    <Content Include="Assets\f10.PNG" />
+    <Content Include="Assets\f2.PNG" />
+    <Content Include="Assets\f3.PNG" />
+    <Content Include="Assets\f4.PNG" />
+    <Content Include="Assets\f5.PNG" />
+    <Content Include="Assets\f6.PNG" />
+    <Content Include="Assets\f7.PNG" />
+    <Content Include="Assets\f8.PNG" />
+    <Content Include="Assets\f9.PNG" />
+    <Content Include="Assets\friendship card.jpg" />
+    <Content Include="Assets\gift.jpg" />
+    <Content Include="Assets\Greeting-Cards.jpg" />
+    <Content Include="Assets\hallmark_logo.jpg" />
+    <Content Include="Assets\hello-kitty-memo-pad-set-with-pen-root-b12.jpg" />
+    <Content Include="Assets\light-your-way-every-day-friend-angel-figurine-ornament-root-19080_1470_1.jpg" />
+    <Content Include="Assets\Logo.scale-100.png" />
+    <Content Include="Assets\lolita-cheers-handpainted-wine-glass-root-4053097_1470_1.jpg" />
+    <Content Include="Assets\milestone-birthday-ornament-root-1595qhx1054_1470_1.jpg" />
+    <Content Include="Assets\pearl-pendant-necklace-root-1274590_1470_1.jpg" />
+    <Content Include="Assets\Push_Wagon.jpg" />
+    <Content Include="Assets\Shape_Sorter.jpg" />
+    <Content Include="Assets\shp-desktop-personalized-books-content-7-6-16.png" />
+    <Content Include="Assets\SmallLogo.scale-100.png" />
+    <Content Include="Assets\SplashScreen.scale-100.png" />
+    <Content Include="Assets\Squeeze_Blocks.jpg" />
+    <Content Include="Assets\Stand_Walker.jpg" />
+    <Content Include="Assets\sterling-silver-butterfly-and-cubic-zirconia-2pack-stud-earring-set-root-1274604_1470_1.jpg" />
+    <Content Include="Assets\StoreLogo.scale-100.png" />
+    <Content Include="Assets\t1.jpg" />
+    <Content Include="Assets\t10.jpg" />
+    <Content Include="Assets\t2.jpg" />
+    <Content Include="Assets\t3.jpg" />
+    <Content Include="Assets\t4.jpg" />
+    <Content Include="Assets\t5.jpg" />
+    <Content Include="Assets\t6.jpg" />
+    <Content Include="Assets\t7.jpg" />
+    <Content Include="Assets\t8.jpg" />
+    <Content Include="Assets\t9.jpg" />
+    <Content Include="Assets\w1.PNG" />
+    <Content Include="Assets\w10.PNG" />
+    <Content Include="Assets\w2.PNG" />
+    <Content Include="Assets\w3.PNG" />
+    <Content Include="Assets\w4.PNG" />
+    <Content Include="Assets\w5.PNG" />
+    <Content Include="Assets\w6.PNG" />
+    <Content Include="Assets\w7.PNG" />
+    <Content Include="Assets\w8.PNG" />
+    <Content Include="Assets\w9.PNG" />
+    <Content Include="Assets\Wedding cards.jpg" />
+    <Content Include="Assets\Wedding gifts.jpg" />
+    <Content Include="Assets\wings-of-hope-encouragement-ornament-root-1795qhx1051_1470_1.jpg" />
+    <Content Include="Assets\wishbone-sterling-silver-necklace-root-hm400006_1470_1.jpg" />
+    <Content Include="Common\ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="cards.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="cardsitems.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="gifts.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="giftsitems.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ViewItem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '12.0' ">
+    <VisualStudioVersion>12.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

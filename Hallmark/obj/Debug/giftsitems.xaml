@@ -1,0 +1,63 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="Hallmark.giftsitems"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hallmark"
+    xmlns:common="using:Hallmark.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName"></x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="White" Margin="20,-5,-20,5">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='11' x:Name="backButton" Margin="39,59,39,0"                          Foreground="Black"
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                        AutomationProperties.Name="Back"
+                        AutomationProperties.AutomationId="BackButton"
+                        AutomationProperties.ItemType="Navigation Button"/>
+
+        </Grid>
+        <Image x:Name="Logo1" Visibility="Visible" Width="300" HorizontalAlignment="Left" VerticalAlignment="Top" Source="Assets/hallmark_logo.jpg" Margin="117,-1,0,0" Grid.RowSpan="2"/>
+        <TextBlock x:Name="heading" FontFamily="times new roman" HorizontalAlignment="Center" Grid.Row="1" TextAlignment="Center" FontWeight="Bold" TextWrapping="Wrap" Text="Birthday" FontSize="50" Foreground="Black" VerticalAlignment="Top" />
+        <Image x:ConnectionId='1' x:Name="t1" Source="Assets/hello-kitty-memo-pad-set-with-pen-root-b12.jpg" HorizontalAlignment="Left" Height="134" Margin="40,134,0,0" Grid.Row="1" VerticalAlignment="Top" Width="176"                   />
+        <Image x:ConnectionId='2' x:Name="t2" Source="Assets/b2.jpg" HorizontalAlignment="Left" Height="134" Margin="320,126,0,0" Grid.Row="1" VerticalAlignment="Top" Width="176"                     />
+        <Image x:ConnectionId='3' x:Name="t3" Source="Assets/b3.jpg" HorizontalAlignment="Left" Height="134" Margin="611,125,0,0" Grid.Row="1" VerticalAlignment="Top" Width="176"                   />
+        <Image x:ConnectionId='4' x:Name="t4" Source="Assets/b4.jpg" HorizontalAlignment="Left" Height="134" Margin="913,129,0,0" Grid.Row="1" VerticalAlignment="Top" Width="176"                   />
+        <Image x:ConnectionId='5' x:Name="t5" Source="Assets/b5" HorizontalAlignment="Left" Height="134" Margin="1183,128,0,0" Grid.Row="1" VerticalAlignment="Top"                    Width="176"/>
+        <Image x:ConnectionId='6' x:Name="t6" Source="Assets/lolita-cheers-handpainted-wine-glass-root-4053097_1470_1.jpg" HorizontalAlignment="Left" Height="134" Margin="55,319,0,0" Grid.Row="1" VerticalAlignment="Top"                    Width="150"/>
+        <Image x:ConnectionId='7' x:Name="t7" Source="Assets/coffee-cup-maxine-ornament-root-1hgo1008_1470_1.jpg" HorizontalAlignment="Left" Height="134" Margin="333,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150"                   />
+        <Image x:ConnectionId='8' x:Name="t8" Source="Assets/light-your-way-every-day-friend-angel-figurine-ornament-root-19080_1470_1.jpg" HorizontalAlignment="Left" Height="134" Margin="623,319,0,0" Grid.Row="1" VerticalAlignment="Top"                    Width="150"/>
+        <Image x:ConnectionId='9' x:Name="t9" Source="Assets/babys-first-birthday-ornament-root-1295qhx1199_1470_1.jpg" HorizontalAlignment="Left" Height="134" Margin="926,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150"                   />
+        <Image x:ConnectionId='10' x:Name="t10" Source="Assets/milestone-birthday-ornament-root-1595qhx1054_1470_1.jpg" HorizontalAlignment="Left" Height="134" Margin="1211,319,0,0" Grid.Row="1" VerticalAlignment="Top" Width="150"                    />
+        </Grid>
+
+</Page>
+

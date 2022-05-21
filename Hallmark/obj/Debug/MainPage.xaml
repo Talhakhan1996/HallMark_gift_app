@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Hallmark.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hallmark"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Margin="0,1,0,-1">
+
+    <Grid Background="White">
+        <Image x:Name="Logo1" Visibility="Visible" Width="350" HorizontalAlignment="Left" VerticalAlignment="Top" Source="Assets/hallmark_logo.jpg" Margin="14,10,0,0"/>
+        <TextBlock FontFamily="times new roman" HorizontalAlignment="Center" FontSize="50" Foreground="Black" Margin="483,246,467,0" TextWrapping="Wrap" Text="Shops by Occasion" VerticalAlignment="Top"/>
+        <Image x:ConnectionId='1' x:Name="gifts" Visibility="Visible"                       Source="Assets/gift.jpg" Width="400" Height="300" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,347,0,0"/>
+        <Image x:ConnectionId='2' x:Name="cards" Visibility="Visible"                       Source="Assets/Greeting-Cards.jpg" Width="450" Height="300" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="773,347,0,0"/>
+    </Grid>
+</Page>
+

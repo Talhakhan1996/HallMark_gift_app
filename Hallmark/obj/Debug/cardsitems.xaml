@@ -1,0 +1,59 @@
+﻿<Page
+    x:Name="pageRoot"
+    x:Class="Hallmark.cardsitems"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hallmark"
+    xmlns:common="using:Hallmark.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName"></x:String>
+    </Page.Resources>
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <Grid Background="White">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='11' x:Name="backButton" Margin="39,59,39,0" Foreground="Black" 
+                        Style="{StaticResource NavigationBackButtonNormalStyle}"
+                        VerticalAlignment="Top"
+                                                />
+            <Image x:Name="Logo1" Visibility="Visible" Width="238" HorizontalAlignment="Left" VerticalAlignment="Top" Source="Assets/hallmark_logo.jpg" Margin="5,6,0,0" Grid.Column="1" Height="127"/>
+        </Grid>
+        <TextBlock x:Name="heading2" FontFamily="times new roman" HorizontalAlignment="Center" Grid.Row="1" TextAlignment="Center" FontWeight="Bold" TextWrapping="Wrap" FontSize="50" Text="Birthday" Foreground="Black" VerticalAlignment="Top"/>
+        <Image x:ConnectionId='1' x:Name="c1" Source="Assets/c1.PNG" HorizontalAlignment="Left" Height="171" Margin="12,134,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='2' x:Name="c2" Source="Assets/c2.PNG" HorizontalAlignment="Left" Height="171" Margin="313,134,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='3' x:Name="c3" Source="Assets/c3.PNG" HorizontalAlignment="Left" Height="171" Margin="618,134,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='4' x:Name="c4" Source="Assets/c4.PNG" HorizontalAlignment="Left" Height="171" Margin="937,134,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='5' x:Name="c5" Source="Assets/c5.PNG" HorizontalAlignment="Left" Height="171" Margin="1226,134,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='6' x:Name="c6" Source="Assets/c6.PNG" HorizontalAlignment="Left" Height="171" Margin="12,371,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='7' x:Name="c7" Source="Assets/c7.PNG" HorizontalAlignment="Left" Height="171" Margin="316,371,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='8' x:Name="c82" Source="Assets/c82.PNG" HorizontalAlignment="Left" Height="171" Margin="627,370,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                     />
+        <Image x:ConnectionId='9' x:Name="c9" Source="Assets/c9.PNG" HorizontalAlignment="Left" Height="171" Margin="939,371,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                   />
+        <Image x:ConnectionId='10' x:Name="c10" Source="Assets/c10.PNG" HorizontalAlignment="Left" Height="171" Margin="1225,371,0,0" Grid.Row="1" VerticalAlignment="Top" Width="129"                    />
+    </Grid>
+</Page>
+
